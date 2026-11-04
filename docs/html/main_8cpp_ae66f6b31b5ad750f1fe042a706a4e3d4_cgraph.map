@@ -1,0 +1,16 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,117,60,145"/>
+<area shape="rect" id="Node000002" href="$namespacematrix.html#aea08eb33a7712a789e4d6899fee0463c" title="Освобождение памяти." alt="" coords="139,5,287,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="40,115,67,79,85,60,106,44,126,35,123,39,109,48,89,64,71,83,45,118"/>
+<area shape="rect" id="Node000003" href="$namespacematrix.html#a80ab9c8e26cc1b8d7e008587e6e48624" title="Сложение двух матриц." alt="" coords="140,57,286,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="59,115,107,94,132,88,128,91,109,99,62,119"/>
+<area shape="rect" id="Node000005" href="$namespacematrix.html#aca8190b4a11aaf2812645d25eaa7c78d" title="Создание матрицы из массива." alt="" coords="136,109,290,154"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="59,129,122,129,118,133,61,134"/>
+<area shape="rect" id="Node000006" href="$namespacematrix.html#a042653be8a1a118204eb42edf6abb5ca" title="Проверка на симметричность (Вариант 18)." alt="" coords="108,177,318,205"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="60,142,109,163,132,172,127,174,107,168,60,148"/>
+<area shape="rect" id="Node000007" href="$namespacematrix.html#aa09627c108a6fc655405a115dc85c847" title="Вывод матрицы в консоль." alt="" coords="137,229,289,257"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="43,143,71,180,89,198,109,214,125,224,119,224,106,219,85,202,67,183,42,148"/>
+<area shape="rect" id="Node000004" href="$namespacematrix.html#a36978a58a10d5e87ad98a0dacb68688e" title="Создание матрицы заданного размера." alt="" coords="366,88,529,116"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="286,78,354,88,348,90,287,83"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="289,119,354,113,348,115,290,124"/>
+</map>

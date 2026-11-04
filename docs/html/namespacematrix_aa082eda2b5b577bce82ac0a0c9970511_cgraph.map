@@ -1,0 +1,5 @@
+<map id="matrix::matrix_multiply" name="matrix::matrix_multiply">
+<area shape="rect" id="Node000001" title="Умножение двух матриц." alt="" coords="5,5,182,33"/>
+<area shape="rect" id="Node000002" href="$namespacematrix.html#a36978a58a10d5e87ad98a0dacb68688e" title="Создание матрицы заданного размера." alt="" coords="230,5,393,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,17,217,19,211,19,182,22"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="matrix::matrix_add" name="matrix::matrix_add">
+<area shape="rect" id="Node000001" title="Сложение двух матриц." alt="" coords="5,5,152,33"/>
+<area shape="rect" id="Node000002" href="$namespacematrix.html#a36978a58a10d5e87ad98a0dacb68688e" title="Создание матрицы заданного размера." alt="" coords="200,5,363,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,17,187,19,181,19,152,22"/>
+</map>

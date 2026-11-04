@@ -1,0 +1,3 @@
+/home/Vasilisakurnikova/matrix_calculator/CMakeFiles/matrix_calculator.dir
+/home/Vasilisakurnikova/matrix_calculator/CMakeFiles/edit_cache.dir
+/home/Vasilisakurnikova/matrix_calculator/CMakeFiles/rebuild_cache.dir
