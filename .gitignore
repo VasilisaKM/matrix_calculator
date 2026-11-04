@@ -1,0 +1,29 @@
+# Папки сборки
+build/
+out/
+bin/
+obj/
+
+# Документация (её генерирует Doxygen, в Git её пушить не надо)
+docs/
+html/
+latex/
+
+# Исполняемые и объектные файлы
+*.exe
+*.out
+*.o
+*.obj
+*.so
+*.a
+
+# Файлы IDE и редакторов
+.vscode/
+.idea/
+*.swp
+*.swo
+.cache/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
